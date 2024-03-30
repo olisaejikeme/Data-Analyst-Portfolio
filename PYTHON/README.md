@@ -1,4 +1,4 @@
-Unleashing Python's Power for Data Analysis
+## Unleashing Python's Power for Data Analysis
 
 This folder delves into the world of Python scripting for data analysis. Here, you'll find a collection of scripts showcasing my proficiency in data manipulation, analysis, and visualization using Python libraries like pandas, NumPy, and Matplotlib (and potentially others).
 
