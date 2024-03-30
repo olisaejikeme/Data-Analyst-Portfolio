@@ -1,3 +1,5 @@
+## Unveiling Data Insights: The Art of SQL
+
 Welcome to my SQL portfolio! This folder serves as a collection of scripts demonstrating my proficiency in database querying, data manipulation, and analysis using SQL.
 
 Exploring the Folders:
