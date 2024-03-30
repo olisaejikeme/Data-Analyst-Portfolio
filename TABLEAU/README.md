@@ -13,4 +13,4 @@ Live Dashboard Link: Click the provided link to experience the full interactivit
 
 Link: https://public.tableau.com/app/profile/akaolisa.ejikeme/viz/AirBnBListingAnalysis_17117490744400/Dashboard1
 
-![airbnbanalysis](/images/AirbnbListingAnalyis.png)
+![AirbnbListingAnalyis](https://github.com/olisaejikeme/Data-Analyst-Portfolio/assets/79505080/b6df1731-4487-4a3b-a30e-1e22ec8a2987)
