@@ -16,3 +16,10 @@ Live Dashboard Link: Click the provided link to experience the full interactivit
 Link: https://public.tableau.com/app/profile/akaolisa.ejikeme/viz/AirBnBListingAnalysis_17117490744400/Dashboard1
 
 ![AirbnbListingAnalyis](https://github.com/olisaejikeme/Data-Analyst-Portfolio/assets/79505080/b6df1731-4487-4a3b-a30e-1e22ec8a2987)
+
+
+### King County House Sales
+
+Link: https://public.tableau.com/app/profile/akaolisa.ejikeme/viz/KingCountyHouseSales_17138752591160/KingCountyHouseSales
+
+![](https://github.com/olisaejikeme/Data-Analyst-Portfolio/blob/main/TABLEAU/images/KingCountyHouseSales.png)
